@@ -1,0 +1,18 @@
+#selector {
+    color: rgb(20, 181, 225);
+    text-decoration: none;
+
+}
+.css {
+    color: aqua;
+
+}
+body{
+    background-image: url(img/back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    backface-visibility: hidden;
+   
+}
+
